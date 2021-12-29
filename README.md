@@ -1,0 +1,2 @@
+# Guerracoin
+Moeda virtual 
